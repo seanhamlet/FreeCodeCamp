@@ -1,0 +1,38 @@
+
+
+footer {
+  background-color: rgba(225,225,225,1)
+  padding-top: 30px;
+}
+
+/* General section parameters, useful so that each section looks similar
+   with regards to padding*/
+.section {
+  padding-top: 70px;
+  padding-bottom: 50px;
+  min-height:calc(100% - 1px);
+}
+
+.pad-expand {
+  padding-top: 20%;
+  padding-bottom: 25%;
+}
+/* home section class to pad vertical space around text and buttons */
+#home {
+  background-color: rgba(225,225,225,1);
+}
+
+#about {
+  background-color: rgba(185,185,185,1);
+  color: white;
+}
+
+#portfolio {
+  background-color: rgba(165,165,165,1);
+  color: black;
+}
+
+#contact {
+  background-color: rgba(155,155,155,1);
+  color: black;
+}
