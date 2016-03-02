@@ -23,16 +23,26 @@
 </head>
 
 <body>
-  <!-- Navigation Bar -->
+
+   <!-- Navigation Bar -->
   <nav class="navbar navbar-inverse navbar-fixed-top">
   
     <div class="container-fluid">
 
       <div class="navbar-header">
-       <!-- "navbar-brand" sets the class for the linked text "Sean Hamlet" to have same text style as navbar-->
-        <a class="navbar-brand" href="#">Sean M Hamlet</a>
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#example-navbar">
+          <!-- what's shown when collapsed -->
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span> 
+        </button>
+
+       <!-- "navbar-brand" sets the title for the linked text ("Sean Hamlet")to have same text style as navbar-->
+        <a class="navbar-brand" href="#" style="color: white;">Sean M Hamlet</a>
+
       </div>
 
+      <div class="collapse navbar-collapse" id="example-navbar">
       <!-- Groups buttons on right of page -->
       <ul class="nav navbar-nav navbar-right">
         <li class="active"><a href="#home">Home</a></li>
@@ -40,6 +50,7 @@
         <li><a href="#portfolio">Portfolio</a></li>
         <li><a href="#contact">Contact</a></li>
       </ul>
+      </div>
 
     </div>
 
