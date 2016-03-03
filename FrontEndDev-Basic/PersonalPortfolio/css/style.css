@@ -3,6 +3,14 @@
   padding-right: 30px;
 }
 
+.glyphicon {
+  font-size: 20px;
+}
+
+.fa {
+  font-size: 20px;
+}
+
 /* General section parameters, useful so that each section looks similar
    with regards to padding*/
 .section {
