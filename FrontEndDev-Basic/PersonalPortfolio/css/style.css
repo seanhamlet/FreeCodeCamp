@@ -1,3 +1,8 @@
+.navbar-collapse {
+  text-align: right;
+  padding-right: 30px;
+}
+
 /* General section parameters, useful so that each section looks similar
    with regards to padding*/
 .section {
