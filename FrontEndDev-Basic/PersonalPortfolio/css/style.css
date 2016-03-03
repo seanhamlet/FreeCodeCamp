@@ -36,7 +36,7 @@
 }
 
 #home {
-  background-color: rgba(225,225,225,1);
+   background-color: rgba(255,255,255,1);
 }
 
 /* About */
@@ -50,19 +50,19 @@
 
 #portfolio {
   color: black;
-  background-color: rgba(165,165,165,1);
+  background-color: rgba(255,255,255,1);
 }
 
 /* Contact */
 
 #contact {
   color: rgba(50,50,50,1);
-  background-color: rgba(255,255,255,1);
+  background-color: rgba(165,165,165,1);
 }
 
 /* Footer */
 
 footer {
-  padding-top: 30px;
-  background-color: rgba(225,225,225,1)
+  background-color: rgba(165,165,165,1);
+  text-align: center;
 }
