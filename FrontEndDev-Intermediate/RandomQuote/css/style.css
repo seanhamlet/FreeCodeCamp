@@ -1,0 +1,48 @@
+body {
+  margin: 100px;
+  background: white;
+}
+
+.website-title { font-family: 'Josefin Sans', sans-serif; }
+
+h1 {
+  line-height: 35px;
+  color: #16B6DF;
+}
+
+h3 { font-weight: normal; }
+
+.bigger { font-size: 46px; }
+
+.bold { font-weight: bold; }
+
+.italics {
+  line-height: 30px;
+  font-style: italic;
+  vertical-align: text-top;
+}
+
+.author {
+  padding-bottom: 25px;
+  color: gray;
+}
+
+#get-quote, #tweet-quote {
+  text-align: center;
+}
+
+.quote-box {
+  padding-top: 100px;
+  text-align: left;
+}
+
+.thumbnail {
+  padding-top: 25px;
+  padding-bottom: 40px;
+}
+
+.my-name {
+  padding-top: 100px;
+  display: block;
+  text-align: center;
+}
