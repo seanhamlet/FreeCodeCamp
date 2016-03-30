@@ -8,3 +8,9 @@ Solutions to FreeCodeCamp Challenges
 #### Tribute Page ####
 
 #### Personal Portfolio Page ####
+
+### Intermediate ###
+
+#### Random Quote Generator ####
+
+#### Local Weather App ####
