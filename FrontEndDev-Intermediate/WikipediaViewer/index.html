@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<!-- Recommended charset if using english -->
+  <meta charset="utf-8">
+  <!-- Description that is shown in search results -->
+  <meta description="Local Weather">
+  <!-- Ensures rendered using latest IE version -->
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <!-- Controls pages dimensions to follow screen width of device -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Wikipedia Viewer</title>
+
+  <!-- Basic Bootsrap -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+  <!-- Font-Awesome -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
+  <!-- Font Roboto -->
+  <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+
+  <!-- Custom styles for this page -->
+  <link href="css/style.css" rel="stylesheet">
+
+</head>
+<body>
+
+<div class="container-fluid">
+  
+  <!-- User input -->
+  <div class="row">
+    <div class="col-xs-offset-3 col-xs-6">
+      <div class="input-group">
+        
+        <!-- Text Box -->
+        <input type="text" class="form-control" id="searchTxt" placeholder="Search Wikipedia" autocomplete="off">
+        
+        <!-- Search button -->
+        <span class="input-group-addon">
+          <button id="search" data-toggle="tooltip" data-placement="bottom" title="Search for an article">
+            <i class="fa fa-search"></i>
+          </button>
+        </span>
+        
+        <!-- Random Button -->
+        <span class="input-group-addon">
+          <a href="http://en.wikipedia.org/wiki/Special:Random" target="_blank">
+            <button id="random" data-toggle="tooltip" data-placement="bottom" title="Random article">
+              <i class="fa fa-random"></i>
+            </button>
+          </a>
+        </span>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Search output -->
+  <div class="results">
+    <!-- Show results here -->
+  </div>
+  
+</div>
+  
+
+  <!-- Javascript -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+
+  <!-- Custom Javascript -->
+  <script src="js/scripts.js"></script>
+</body>
+</html>
