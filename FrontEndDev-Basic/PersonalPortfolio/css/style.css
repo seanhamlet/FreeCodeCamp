@@ -78,6 +78,26 @@ body {
   background-color: #eeeeee;
   text-align: center;
 }
+
+#portfolio a {
+  display: inline-block;
+  text-align: center;
+  text-decoration: inherit;
+  color: inherit;
+  margin-left: 2rem;
+  margin-right: 2rem;
+  margin-bottom: 5rem;
+  background-color: white;
+  box-shadow: 0 4px 4px rgba(0,0,0,0.12);
+}
+
+#portfolio a h4 {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+img {
+  max-width: 350px;
 }
 
 /* Contact */
