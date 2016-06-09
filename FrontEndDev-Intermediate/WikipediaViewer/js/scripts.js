@@ -4,13 +4,12 @@ function getSearchResults() {
   
   searchtext = $("#searchTxt").val();
   
-  var wikiUrl = 'http://en.wikipedia.org/w/api.php?action=query&list=search&srsearch=' +
-      searchtext + '&format=json&callback=wikiCallback';
+  var wikiUrl = 'https://en.wikipedia.org/w/api.php?action=query&format=json&list=search&srsearch='+searchtext;
 
   $.ajax({
     url: wikiUrl,
-    dataType: "jsonp",
-    success: function (data, textStatus, jqXHR) {
+    dataType: 'jsonp',
+    success: function (data) {
       showResults(data);
     },
 
