@@ -1,0 +1,96 @@
+body {
+  background-color: #015965;
+  color: rgba(255,255,255,0.87);s
+}
+
+.request-box {
+  position: absolute;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 20%;
+  height: 25%;
+  text-align: center;
+}
+
+a, a:hover, a:visited {
+  color: inherit;
+  text-decoration: none;
+}
+
+.fa-search {
+  font-size: 5rem;
+  display: inline;
+  animation-name: appear;
+  animation-duration: 1.5s;
+  animation-fill-mode:forwards;
+  color: #BF9230;
+}
+
+.search {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+#searchTxt {
+  height: 3.5rem;
+  margin-top: 0.75rem;
+  margin-bottom: 0.75rem;
+  width: 10px;
+  animation-name: widen;
+  animation-duration: 0.75s;
+  animation-fill-mode:forwards;
+  display: inline;
+  background-color: #015965;
+  color: rgba(255,255,255,0.87);
+}
+
+input:focus {
+  outline: none;
+}
+
+@keyframes widen {
+    from {width: 10px;}
+    to {width: 100%;}
+}
+
+@keyframes appear {
+  from {opacity: 0.2;}
+  to {opacity: 1.0;}
+}
+
+.rounded {
+  border-radius: 30px;
+  border: #BF9230 5px solid;
+}
+
+.icon-label {
+  animation-name: appear;
+  animation-duration: 1.5s;
+  animation-fill-mode:forwards;
+}
+
+.results {
+  position: relative;
+}
+
+.search-result {
+  color: rgba(0,0,0,0.87);
+  background-color: rgba(225,225,225,1.0);
+  margin-top: 1rem;
+
+}
+
+.search-result:hover {
+  border-left: #BF9230 5px solid;
+  padding-left: 10px;
+}
+
+footer {
+  text-align: center;
+  height: 30px;
+  width: 100%;
+  margin-top: 50%;
+}
