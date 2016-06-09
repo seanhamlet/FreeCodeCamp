@@ -11,9 +11,10 @@ body {
   font-size: 20px;
 }
 
-.fa {
-  font-size: 20px;
+.front-buttons {
+  display: inline;
 }
+
 
 /* General section parameters, useful so that each section looks similar
    with regards to padding*/
