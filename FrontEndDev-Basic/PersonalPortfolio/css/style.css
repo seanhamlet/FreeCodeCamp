@@ -88,6 +88,12 @@ body {
 /* Footer */
 
 footer {
-  background-color: rgba(165,165,165,1);
+  color: white;
+  background-color: #3499DB;
   text-align: center;
+}
+
+footer a {
+  text-decoration: none;
+  color: inherit;
 }
