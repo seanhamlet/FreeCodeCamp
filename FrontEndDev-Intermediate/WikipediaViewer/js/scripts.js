@@ -39,6 +39,11 @@ function showResults(data) {
   }
   console.log(html);
   $('.results').html(html);
+  if (html === '') {
+    $('footer').css('margin-top', '45%');
+  } else {
+    $('footer').css('margin-top', '5%');
+  }
 }
 
 $(document).ready(function(){
