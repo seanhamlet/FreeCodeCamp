@@ -49,6 +49,17 @@ body {
   filter: alpha(opacity=100);
   font-weight: 300;
 }
+
+.fa {
+  color: rgba(255,255,255,0.87);
+  margin-left: 1.0rem;
+  margin-right: 1.0rem;
+}
+
+.fa:hover {
+  color: rgba(255,255,255,0.50);
+}
+
 }
 
 /* About */
