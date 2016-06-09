@@ -20,7 +20,6 @@ function getSearchResults() {
 }
 
 function showResults(data) {
-  
   var titles = data[1];
   var descriptions = data[2];
   
