@@ -67,8 +67,8 @@ body {
 /* About */
 
 #about {
-  color: rgba(50,50,50,1);
-  background-color: rgba(185,185,185,1);
+  color: rgba(0,0,0,0.89);
+  background-color: #fff;
 }
 
 /* Portfolio */
