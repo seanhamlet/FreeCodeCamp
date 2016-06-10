@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<!-- Recommended charset if using english -->
+  <meta charset="utf-8">
+  <!-- Description that is shown in search results -->
+  <meta description="Simon Game">
+  <!-- Ensures rendered using latest IE version -->
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <!-- Controls pages dimensions to follow screen width of device -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Simon Game</title>
+
+  <!-- Font-Awesome -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
+  <!-- Font Roboto -->
+  <link href='https://fonts.googleapis.com/css?family=Lato:400,300' rel='stylesheet' type='text/css'>
+
+  <!-- Custom styles for this page -->
+  <link href="css/style.css" rel="stylesheet">
+
+</head>
+<body>
+
+<svg class="thing" width="500" height="500">
+  <!--  Background Circle  -->
+  <circle cx="250" cy="250" r="175" stroke="#444444" stroke-width="130" fill="#444444" />
+  
+  <!--  Arc Buttons  -->
+  <path id="1" fill="none" stroke-width="100" stroke="#bb0000" />
+  <path id="2" fill="none" stroke-width="100" stroke="#0000b0" />
+  <path id="3" fill="none" stroke-width="100" stroke="#bbbb00" />
+  <path id="4" fill="none" stroke-width="100" stroke="#008000" />
+  
+  <!--  Lines to split arc buttons  -->
+  <line x1="250" y1="30" x2="250" y2="150" stroke-width="20" stroke="#444444" />
+  <line x1="250" y1="350" x2="250" y2="480" stroke-width="20" stroke="#444444" />
+  <line x1="30" y1="250" x2="150" y2="250" stroke-width="20" stroke="#444444" />
+  <line x1="350" y1="250" x2="480" y2="250" stroke-width="20" stroke="#444444" />
+  
+  <!--  Inner Background circle  -->
+  <circle cx="250" cy="250" r="120" fill="#444444" />
+  
+   <!--  Inner Foreground circle  -->
+  <circle cx="250" cy="250" r="105" fill="white" />
+  
+  <!--  Simon Title  -->
+  <text x="180" y="210" fill="black" font-size="3.5rem">Simon</text>
+  
+  <!--  Start foreground  -->
+  <circle id="start" class="button" cx="250" cy="265" r="12" fill="red" stroke="#444444" stroke-width="4" />
+  
+  <!--  Start Label  -->
+  <text x="232" y="295" fill="black" font-size="0.80rem">START</text>
+  
+ 
+  
+  <!--  Strict foreground  -->
+  <circle id="strict" class="button" cx="300" cy="265" r="12" fill="yellow" stroke="#444444" stroke-width="4"/>
+  
+  <!--  Strict indicator  -->
+  <circle id="strictInd" cx="300" cy="240" r="4" fill="black" stroke="black" stroke-width="3"/>
+  
+  <!--  Strict Label  -->
+  <text x="280" y="295" fill="black" font-size="0.8rem">STRICT</text>
+  
+  <!--  Counter Display -->
+  <rect x="170" y="240" rx="10" ry="10" width="50" height="40"
+  style="fill:#550000;stroke:black;stroke-width:5;" />
+  
+  <!--  Counter Label  -->
+  <text x="173" y="295" fill="black" font-size="0.8rem">COUNT</text>
+  
+  <!--  Counter Text  -->
+  <text id="counter" x="174" y="275" fill="darkred" font-size="4rem">--</text>
+  
+  <!--  On label  -->
+  <text>On</text>
+
+</svg>
+
+  <!-- Rectangular switch -->
+<label class="switch">
+  <input type="checkbox">
+  <div class="slider round"></div>
+</label>
+
+
+  </div>
+    <footer class="footer small">Simon Game<br>Developed by <a href="https://github.com/seanmhamlet">Sean M Hamlet </a> &copy 2016</footer>
+  </div>
+
+
+  <!-- Javascript -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+
+  <!-- Custom Javascript -->
+  <script src="js/scripts.js"></script>
+</body>
+</html>
