@@ -1,0 +1,49 @@
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+}
+
+.container-fluid {
+  height: 100%;
+}
+
+.row {
+  width: 33vw;
+  height: 33vw;
+  margin: 0 auto;
+  margin-top: 5%;
+}
+
+.col-xs-4 {
+  height: 33.33%;
+  background-color: #4285f4;
+  border: 0.4rem solid white;
+  border-radius: 10%;
+  padding: 0;
+  text-align: center;
+}
+
+.col-xs-4:hover {
+  cursor: pointer;
+}
+
+.col-xs-4 i {
+  font-size: 10vw;
+}
+
+.modal-body button {
+  background-color: #4285f4;
+}
+
+/* Token size in modal */
+.modal-body button i {
+  font-size: 20vw;
+}
+
+#playAgain:hover {
+  cursor: pointer;
+}
+
