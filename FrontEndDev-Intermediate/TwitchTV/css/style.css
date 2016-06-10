@@ -1,0 +1,51 @@
+body {
+  background-color: #E0E0E0;
+}
+
+.title {
+  margin-top: 3rem;
+}
+
+.button-box {
+  margin-top: 3rem;
+}
+
+.icon {
+  padding: 0px;
+  width: 50px;
+}
+
+.icon, h4, h5 {
+  display: inline;
+}
+
+h4 {
+  margin-left: 20px;
+}
+
+h5 {
+  text-align: right;
+}
+
+.status {
+  margin-top: 0px;
+}
+
+.online {
+  color: #090;
+}
+
+.offline {
+  color: #d00;
+}
+
+.list-group-item-text {
+  font-size: 1rem;
+  margin-left: 7.25rem;
+  margin-top: -1.5rem;
+  display: block;
+}
+
+footer {
+  text-align: center;
+}
