@@ -14,3 +14,15 @@ Solutions to FreeCodeCamp Challenges
 #### Random Quote Generator ####
 
 #### Local Weather App ####
+
+#### Wikipedia Viewer ####
+
+### Intermediate ###
+
+#### Javascript Calculator ####
+
+#### Pomodoro Timer ####
+
+#### Tic Tac Toe Game ####
+
+#### Simon Game ####
