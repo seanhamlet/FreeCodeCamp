@@ -76,3 +76,6 @@
   + Bootstrap
   + Javascript
   + jQuery
+
+### [Front End Development Certificate](/images/front-end-dev-certification.png) ###
+![Front End Development Certificate](/images/front-end-dev-certification.png)
