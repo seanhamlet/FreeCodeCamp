@@ -1,12 +1,9 @@
 # FreeCodeCamp
-
 ### Basic Front End Development Projects
-
 + [Tribute Page](http://codepen.io/seanmhamlet/full/zrbRyv/)
   + HTML
   + CSS
   + Bootstrap
-
 + [Personal Portfolio Page](http://codepen.io/seanmhamlet/full/PNoLLG/)
   + HTML
   + CSS
