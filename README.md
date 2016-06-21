@@ -8,6 +8,7 @@
   + HTML
   + CSS
   + Bootstrap
+![Personal Portfolio Screenshot](https://github.com/seanmhamlet/FreeCodeCamp/blob/master/images/personal-portfolio-screenshot.png)
 
 ### Intermediate Front End Development Projects
 + [Random Quote Generator](http://codepen.io/seanmhamlet/full/xVgpWZ/)
@@ -17,6 +18,7 @@
   + JavaScript
   + jQuery
   + mashape API
+![Random Quote Machine Screenshot](https://github.com/seanmhamlet/FreeCodeCamp/blob/master/images/random-quote-machine-screenshot.png)
 + [Local Weather App](http://codepen.io/seanmhamlet/full/MyoOaw/)
   + HTML
   + CSS
@@ -29,41 +31,46 @@
   + HTML
   + CSS
   + Bootstrap
-  + Javascript
+  + JavaScript
   + jQuery
   + Wikipedia API
+![Wikipedia Viewer Screenshot](https://github.com/seanmhamlet/FreeCodeCamp/blob/master/images/wikipedia-viewer-screenshot.png)
 + [Wikipedia Viewer V2](http://codepen.io/seanmhamlet/full/yOqyGq/)
   + HTML
   + CSS
   + Bootstrap
-  + Javascript
+  + JavaScript
   + jQuery
   + Wikipedia API
+![Wikipedia Viewer V2 Screenshot](https://github.com/seanmhamlet/FreeCodeCamp/blob/master/images/wikipedia-viewer-v2.png)
 
 ### Advanced Front End Development Projects
-+ [Javascript Calculator](http://codepen.io/seanmhamlet/full/GZPMjV/)
++ [JavaScript Calculator](http://codepen.io/seanmhamlet/full/GZPMjV/)
   + HTML
   + CSS
   + Bootstrap
-  + Javascript
+  + JavaScript
   + jQuery
+![JavaScript Screenshot](https://github.com/seanmhamlet/FreeCodeCamp/blob/master/images/javascript-calculator-screenshot.png)
 + [Pomodoro Timer](http://codepen.io/seanmhamlet/full/aNMRbB/)
   + HTML (SVG)
   + CSS
   + Bootstrap
-  + Javascript
+  + JavaScript
   + jQuery
+![Pomodoro Timer Screenshot](https://github.com/seanmhamlet/FreeCodeCamp/blob/master/images/pomodoro-timer-screenshot.png)
 + [Tic Tac Toe Game](http://codepen.io/seanmhamlet/full/WwqKLQ/)
   + HTML
   + CSS
   + Bootstrap
-  + Javascript
+  + JavaScript
   + jQuery
+![Tic Tac Toe Screenshot](https://github.com/seanmhamlet/FreeCodeCamp/blob/master/images/tic-tac-toe-screenshot.png)
 + [Simon Game](http://codepen.io/seanmhamlet/full/VjwyYy/)
   + HTML (SVG)
   + CSS
   + Bootstrap
-  + Javascript
+  + JavaScript
   + jQuery
 ![Simon Game Screenshot](https://github.com/seanmhamlet/FreeCodeCamp/blob/master/images/simon-game-screenshot.png)
 
