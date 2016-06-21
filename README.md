@@ -77,5 +77,5 @@
   + Javascript
   + jQuery
 
-### [Front End Development Certificate](/images/front-end-dev-certification.png) ###
-![Front End Development Certificate](/images/front-end-dev-certification.png)
+### [Front End Development Certificate](https://github.com/seanmhamlet/FreeCodeCamp/blob/master/images/front-end-dev-certification.png) ###
+![Front End Development Certificate](https://github.com/seanmhamlet/FreeCodeCamp/blob/master/images/front-end-dev-certification.png)
