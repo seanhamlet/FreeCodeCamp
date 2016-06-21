@@ -50,9 +50,29 @@
 ### Advanced Front End Development Projects ###
 
 + Javascript Calculator
+  + HTML
+  + CSS
+  + Bootstrap
+  + Javascript
+  + jQuery
 
 + Pomodoro Timer
+  + HTML (SVG)
+  + CSS
+  + Bootstrap
+  + Javascript
+  + jQuery
 
 + Tic Tac Toe Game
+  + HTML
+  + CSS
+  + Bootstrap
+  + Javascript
+  + jQuery
 
 + Simon Game
+  + HTML (SVG)
+  + CSS
+  + Bootstrap
+  + Javascript
+  + jQuery
