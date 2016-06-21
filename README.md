@@ -1,5 +1,4 @@
 # FreeCodeCamp #
-Solutions to FreeCodeCamp Challenges
 
 ### Basic Front End Development Projects ###
 
