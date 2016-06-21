@@ -10,7 +10,6 @@
   + Bootstrap
 
 ### Intermediate Front End Development Projects
-
 + [Random Quote Generator](http://codepen.io/seanmhamlet/full/xVgpWZ/)
   + HTML
   + CSS
@@ -18,7 +17,6 @@
   + JavaScript
   + jQuery
   + mashape API
-
 + [Local Weather App](http://codepen.io/seanmhamlet/full/MyoOaw/)
   + HTML
   + CSS
@@ -27,7 +25,6 @@
   + jQuery
   + forcast.io API
   + ipinfo.io API
-
 + [Wikipedia Viewer](http://codepen.io/seanmhamlet/full/zqdjrP/)
   + HTML
   + CSS
@@ -35,7 +32,6 @@
   + Javascript
   + jQuery
   + Wikipedia API
-
 + [Wikipedia Viewer V2](http://codepen.io/seanmhamlet/full/yOqyGq/)
   + HTML
   + CSS
@@ -45,28 +41,24 @@
   + Wikipedia API
 
 ### Advanced Front End Development Projects
-
 + [Javascript Calculator](http://codepen.io/seanmhamlet/full/GZPMjV/)
   + HTML
   + CSS
   + Bootstrap
   + Javascript
   + jQuery
-
 + [Pomodoro Timer](http://codepen.io/seanmhamlet/full/aNMRbB/)
   + HTML (SVG)
   + CSS
   + Bootstrap
   + Javascript
   + jQuery
-
 + [Tic Tac Toe Game](http://codepen.io/seanmhamlet/full/WwqKLQ/)
   + HTML
   + CSS
   + Bootstrap
   + Javascript
   + jQuery
-
 + [Simon Game](http://codepen.io/seanmhamlet/full/VjwyYy/)
   + HTML (SVG)
   + CSS
