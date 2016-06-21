@@ -27,6 +27,7 @@
   + jQuery
   + forcast.io API
   + ipinfo.io API
+![Local Weather App Screenshot](https://github.com/seanmhamlet/FreeCodeCamp/blob/master/images/local-weather-screenshot.png)
 + [Twitch.tv JSON API](http://codepen.io/seanmhamlet/full/PNOWEQ/)
   + HTML
   + CSS
