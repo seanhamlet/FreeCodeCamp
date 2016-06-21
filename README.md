@@ -15,12 +15,37 @@
 ### Intermediate Front End Development Projects ###
 
 + Random Quote Generator
+  + HTML
+  + CSS
+  + Bootstrap
+  + JavaScript
+  + jQuery
+  + mashape API
 
 + Local Weather App
+  + HTML
+  + CSS
+  + Bootstrap
+  + JavaScript
+  + jQuery
+  + forcast.io API
+  + ipinfo.io API
 
 + Wikipedia Viewer
+  + HTML
+  + CSS
+  + Bootstrap
+  + Javascript
+  + jQuery
+  + Wikipedia API
 
 + Wikipedia Viewer V2 
+  + HTML
+  + CSS
+  + Bootstrap
+  + Javascript
+  + jQuery
+  + Wikipedia API
 
 ### Advanced Front End Development Projects ###
 
