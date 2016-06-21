@@ -1,6 +1,6 @@
-# FreeCodeCamp #
+# FreeCodeCamp
 
-### Basic Front End Development Projects ###
+### Basic Front End Development Projects
 
 + [Tribute Page](http://codepen.io/seanmhamlet/full/zrbRyv/)
   + HTML
@@ -12,7 +12,7 @@
   + CSS
   + Bootstrap
 
-### Intermediate Front End Development Projects ###
+### Intermediate Front End Development Projects
 
 + [Random Quote Generator](http://codepen.io/seanmhamlet/full/xVgpWZ/)
   + HTML
@@ -47,7 +47,7 @@
   + jQuery
   + Wikipedia API
 
-### Advanced Front End Development Projects ###
+### Advanced Front End Development Projects
 
 + [Javascript Calculator](http://codepen.io/seanmhamlet/full/GZPMjV/)
   + HTML
@@ -77,5 +77,5 @@
   + Javascript
   + jQuery
 
-### [Front End Development Certificate](https://github.com/seanmhamlet/FreeCodeCamp/blob/master/images/front-end-dev-certification.png) ###
+### [Front End Development Certificate](https://github.com/seanmhamlet/FreeCodeCamp/blob/master/images/front-end-dev-certification.png)
 ![Front End Development Certificate](https://github.com/seanmhamlet/FreeCodeCamp/blob/master/images/front-end-dev-certification.png)
