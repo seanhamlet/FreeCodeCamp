@@ -1,28 +1,34 @@
 # FreeCodeCamp #
 Solutions to FreeCodeCamp Challenges
 
-## Front End Development Projects ##
+### Basic Front End Development Projects ###
 
-### Basic ###
++ Tribute Page
+  + HTML
+  + CSS
+  + Bootstrap
 
-#### Tribute Page ####
++ Personal Portfolio Page
+  + HTML
+  + CSS
+  + Bootstrap
 
-#### Personal Portfolio Page ####
+### Intermediate Front End Development Projects ###
 
-### Intermediate ###
++ Random Quote Generator
 
-#### Random Quote Generator ####
++ Local Weather App
 
-#### Local Weather App ####
++ Wikipedia Viewer
 
-#### Wikipedia Viewer ####
++ Wikipedia Viewer V2 
 
-### Intermediate ###
+### Advanced Front End Development Projects ###
 
-#### Javascript Calculator ####
++ Javascript Calculator
 
-#### Pomodoro Timer ####
++ Pomodoro Timer
 
-#### Tic Tac Toe Game ####
++ Tic Tac Toe Game
 
-#### Simon Game ####
++ Simon Game
