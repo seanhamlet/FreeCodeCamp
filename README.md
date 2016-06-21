@@ -27,6 +27,14 @@
   + jQuery
   + forcast.io API
   + ipinfo.io API
++ [Twitch.tv JSON API](http://codepen.io/seanmhamlet/full/PNOWEQ/)
+  + HTML
+  + CSS
+  + Bootstrap
+  + JavaScript
+  + jQuery
+  + Twitch.tv API
+![Twitch.tv JSON API Screnshot](https://github.com/seanmhamlet/FreeCodeCamp/blob/master/images/twitch-tv-screenshot.png)
 + [Wikipedia Viewer](http://codepen.io/seanmhamlet/full/zqdjrP/)
   + HTML
   + CSS
