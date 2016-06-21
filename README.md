@@ -65,6 +65,7 @@
   + Bootstrap
   + Javascript
   + jQuery
+![Simon Game Screenshot](https://github.com/seanmhamlet/FreeCodeCamp/blob/master/images/simon-game-screenshot.png)
 
 ### [Front End Development Certificate](https://github.com/seanmhamlet/FreeCodeCamp/blob/master/images/front-end-dev-certification.png)
 ![Front End Development Certificate](https://github.com/seanmhamlet/FreeCodeCamp/blob/master/images/front-end-dev-certification.png)
