@@ -51,7 +51,7 @@
   + Bootstrap
   + JavaScript
   + jQuery
-![JavaScript Screenshot](https://github.com/seanmhamlet/FreeCodeCamp/blob/master/images/javascript-calculator-screenshot.png)
+![JavaScript Calculator Screenshot](https://github.com/seanmhamlet/FreeCodeCamp/blob/master/images/javascript-calculator-screenshot.png)
 + [Pomodoro Timer](http://codepen.io/seanmhamlet/full/aNMRbB/)
   + HTML (SVG)
   + CSS
