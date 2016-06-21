@@ -2,19 +2,19 @@
 
 ### Basic Front End Development Projects ###
 
-+ Tribute Page
++ [Tribute Page](http://codepen.io/seanmhamlet/full/zrbRyv/)
   + HTML
   + CSS
   + Bootstrap
 
-+ Personal Portfolio Page
++ [Personal Portfolio Page](http://codepen.io/seanmhamlet/full/PNoLLG/)
   + HTML
   + CSS
   + Bootstrap
 
 ### Intermediate Front End Development Projects ###
 
-+ Random Quote Generator
++ [Random Quote Generator](http://codepen.io/seanmhamlet/full/xVgpWZ/)
   + HTML
   + CSS
   + Bootstrap
@@ -22,7 +22,7 @@
   + jQuery
   + mashape API
 
-+ Local Weather App
++ [Local Weather App](http://codepen.io/seanmhamlet/full/MyoOaw/)
   + HTML
   + CSS
   + Bootstrap
@@ -31,7 +31,7 @@
   + forcast.io API
   + ipinfo.io API
 
-+ Wikipedia Viewer
++ [Wikipedia Viewer](http://codepen.io/seanmhamlet/full/zqdjrP/)
   + HTML
   + CSS
   + Bootstrap
@@ -39,7 +39,7 @@
   + jQuery
   + Wikipedia API
 
-+ Wikipedia Viewer V2 
++ [Wikipedia Viewer V2](http://codepen.io/seanmhamlet/full/yOqyGq/)
   + HTML
   + CSS
   + Bootstrap
@@ -49,28 +49,28 @@
 
 ### Advanced Front End Development Projects ###
 
-+ Javascript Calculator
++ [Javascript Calculator](http://codepen.io/seanmhamlet/full/GZPMjV/)
   + HTML
   + CSS
   + Bootstrap
   + Javascript
   + jQuery
 
-+ Pomodoro Timer
++ [Pomodoro Timer](http://codepen.io/seanmhamlet/full/aNMRbB/)
   + HTML (SVG)
   + CSS
   + Bootstrap
   + Javascript
   + jQuery
 
-+ Tic Tac Toe Game
++ [Tic Tac Toe Game](http://codepen.io/seanmhamlet/full/WwqKLQ/)
   + HTML
   + CSS
   + Bootstrap
   + Javascript
   + jQuery
 
-+ Simon Game
++ [Simon Game](http://codepen.io/seanmhamlet/full/VjwyYy/)
   + HTML (SVG)
   + CSS
   + Bootstrap
