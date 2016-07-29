@@ -54,13 +54,6 @@
 ![Wikipedia Viewer V2 Screenshot](https://github.com/seanmhamlet/FreeCodeCamp/blob/master/images/wikipedia-viewer-v2.png)
 
 ### Advanced Front End Development Projects
-+ [JavaScript Calculator](http://codepen.io/seanmhamlet/full/GZPMjV/)
-  + HTML
-  + CSS
-  + Bootstrap
-  + JavaScript
-  + jQuery
-![JavaScript Calculator Screenshot](https://github.com/seanmhamlet/FreeCodeCamp/blob/master/images/javascript-calculator-screenshot.png)
 + [Pomodoro Timer](http://codepen.io/seanmhamlet/full/aNMRbB/)
   + HTML (SVG)
   + CSS
