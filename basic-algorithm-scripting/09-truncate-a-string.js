@@ -16,3 +16,23 @@ Written by: Sean M Hamlet
 https://www.freecodecamp.com/seanmhamlet
 */
 
+function truncateString(str, num) {
+  // Clear out that junk in your trunk
+  var trunc;  
+  
+  if (num <= 3) {
+    if (num < str.length){
+      return str.slice(0,num) + "...";
+    } else{
+    trunc = str.slice(0,num);
+    return trunc;
+    }
+  } else if (num >= str.length) {
+    return str;
+  } else {
+    trunc = str.slice(0,num - 3);
+    return trunc + "...";
+  }
+}
+
+truncateString("A-tisket a-tasket A green and yellow basket", 11);
