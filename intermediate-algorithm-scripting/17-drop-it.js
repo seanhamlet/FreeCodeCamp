@@ -20,3 +20,17 @@ Written by: Sean M Hamlet
 https://www.freecodecamp.com/seanmhamlet
 */
 
+function dropElements(arr, func) {
+  // filter out elements that do pass test
+  // search for elements in arr that do pass test and remove them from array
+  
+  // Loop until found element that passes function and array length is > 0
+  while (arr.length > 0 && !func(arr[0])) {
+    arr.shift();
+  }
+  
+  return arr;
+  
+}
+
+dropElements([1, 2, 3, 4], function(n) {return n > 5; });
