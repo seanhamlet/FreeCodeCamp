@@ -1,4 +1,28 @@
 # FreeCodeCamp
+FreeCodeCamp is a self-paced, open-source coding curriculum. The curriculum contains front end, data visualization, back end, and full stack material.
+
+#### Front End Certification [COMPLETED]
+Practiced skills include `HTML`, `CSS`, `JavaScript`, `jQuery`, and `Bootstrap`.
+
+To earn this certification, you must build **10 front end projects** and implement **JavaScript algorithms**.
+
+####Back End Certification [IN PROGRESS]
+
+Practiced skills include `Node.js, Express,` and `MongoDB`. You'll also learn about the importance of version source control using `Git`.
+
+To earn this certification, you must build **5 APIs** and **5 full stack apps**.
+
+## Progress
+
+I've currently completed the Front-end certification which included implementing JavaScript algorithms and building 10 front-end projects. I am currently working through the Back End Certification.
+
+For a list of implemented algorithms and completed projects, see below.
+
+### JavaScript Algorithms
++ [Basic](https://github.com/seanmhamlet/FreeCodeCamp/tree/master/basic-algorithm-scripting)
++ [Intermediate](https://github.com/seanmhamlet/FreeCodeCamp/tree/master/intermediate-algorithm-scripting)
++ [Advanced](https://github.com/seanmhamlet/FreeCodeCamp/tree/master/advanced-algorithm-scripting)
+
 ### Basic Front End Development Projects
 + [Tribute Page](http://codepen.io/seanmhamlet/full/zrbRyv/)
   + HTML
@@ -61,6 +85,12 @@
   + JavaScript
   + jQuery
 ![Pomodoro Timer Screenshot](https://github.com/seanmhamlet/FreeCodeCamp/blob/master/images/pomodoro-timer-screenshot.png)
++ [JavaScript Calculator](https://github.com/seanmhamlet/javascript-calculator)
+  + HTML
+  + CSS
+  + Bootstrap
+  + JavaScript
+  + jQuery
 + [Tic Tac Toe Game](http://codepen.io/seanmhamlet/full/WwqKLQ/)
   + HTML
   + CSS
