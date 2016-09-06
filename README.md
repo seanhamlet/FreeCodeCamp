@@ -43,7 +43,7 @@ For a list of implemented algorithms and completed projects, see below.
   + jQuery
   + mashape API
 ![Random Quote Machine Screenshot](https://github.com/seanmhamlet/FreeCodeCamp/blob/master/images/random-quote-machine-screenshot.png)
-+ [Local Weather App](http://codepen.io/seanmhamlet/full/MyoOaw/)
++ [Local Weather App](https://github.com/seanmhamlet/local-weather)
   + HTML
   + CSS
   + Bootstrap
@@ -92,14 +92,14 @@ For a list of implemented algorithms and completed projects, see below.
   + JavaScript
   + jQuery
 ![JavaScript Calculator Screnshot](https://github.com/seanmhamlet/FreeCodeCamp/blob/master/images/javascript-calculator.png)
-+ [Tic Tac Toe Game](http://codepen.io/seanmhamlet/full/WwqKLQ/)
++ [Tic Tac Toe Game](https://github.com/seanmhamlet/tic-tac-toe)
   + HTML
   + CSS
   + Bootstrap
   + JavaScript
   + jQuery
 ![Tic Tac Toe Screenshot](https://github.com/seanmhamlet/FreeCodeCamp/blob/master/images/tic-tac-toe-screenshot.png)
-+ [Simon Game](http://codepen.io/seanmhamlet/full/VjwyYy/)
++ [Simon Game](https://github.com/seanmhamlet/simon-game)
   + HTML (SVG)
   + CSS
   + Bootstrap
