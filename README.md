@@ -91,6 +91,7 @@ For a list of implemented algorithms and completed projects, see below.
   + Bootstrap
   + JavaScript
   + jQuery
+![JavaScript Calculator Screnshot](https://github.com/seanmhamlet/FreeCodeCamp/blob/master/images/javascript-calculator.png)
 + [Tic Tac Toe Game](http://codepen.io/seanmhamlet/full/WwqKLQ/)
   + HTML
   + CSS
